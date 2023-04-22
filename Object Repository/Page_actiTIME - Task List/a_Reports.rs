@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reports</name>
+   <tag></tag>
+   <elementGuidId>a25340c4-511d-416f-9b37-49426989499c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.content.reports</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='topnav']/tbody/tr/td[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0c5ab323-9c15-4de8-a26b-6158d751bd9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/reports/reports.do</value>
+      <webElementGuid>6ef448a7-c6d7-4666-9184-39423ca9e4ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content reports</value>
+      <webElementGuid>e048df37-a59b-4f09-9676-92952226552e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reports
+                </value>
+      <webElementGuid>598b03a4-f09a-4195-a536-5ca2e5a66317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topnav&quot;)/tbody[1]/tr[1]/td[@class=&quot;navItem preventPanelsHiding navCell relative notSelected&quot;]/a[@class=&quot;content reports&quot;]</value>
+      <webElementGuid>e3a3c32e-6771-4bc0-ba75-aa7f040628ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='topnav']/tbody/tr/td[5]/a</value>
+      <webElementGuid>af93667c-be63-44f9-9a5b-6ffc37ffa8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[1]/following::a[1]</value>
+      <webElementGuid>dd6931fc-29dd-4aa4-ab8f-79de5b586545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time-Track'])[1]/following::a[2]</value>
+      <webElementGuid>fc08a684-a012-4644-9a1f-e0f1d6276816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::a[1]</value>
+      <webElementGuid>1200a320-a621-4392-bf62-a4fe84052f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/reports/reports.do')]</value>
+      <webElementGuid>35997dfa-6479-4572-b70f-0e452532bd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/a</value>
+      <webElementGuid>f49a03d2-54d6-47a3-8bcb-5db6893ccb27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/reports/reports.do' and (text() = 'Reports
+                ' or . = 'Reports
+                ')]</value>
+      <webElementGuid>36a38d7e-5fac-4640-828f-cbd6efa7cb54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
