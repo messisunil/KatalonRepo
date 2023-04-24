@@ -14,16 +14,25 @@
       </iterationEntity>
       <testDataId>Data Files/database</testDataId>
    </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>37964543-dea9-4ea9-b848-d9f7d1098728</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/exceldata</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
+      <testDataLinkId>37964543-dea9-4ea9-b848-d9f7d1098728</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value></value>
+      <value>username</value>
       <variableId>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
+      <testDataLinkId>37964543-dea9-4ea9-b848-d9f7d1098728</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value></value>
+      <value>password</value>
       <variableId>177d91da-d319-443d-b5d7-a330d69e24b5</variableId>
    </variableLinks>
    <variable>
