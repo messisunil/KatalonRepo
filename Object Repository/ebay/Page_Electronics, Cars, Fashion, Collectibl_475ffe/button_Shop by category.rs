@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Logout</name>
+   <name>button_Shop by category</name>
    <tag></tag>
-   <elementGuidId>55b29400-385b-44b1-b072-0cda54d033f0</elementGuidId>
+   <elementGuidId>c5fc8190-fa16-447d-a694-f03857b9c5e6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='topnav']/tbody/tr/td[7]/table/tbody/tr/td/div/table/tbody/tr/td[3]/a</value>
+         <key>CSS</key>
+         <value>#gh-shop-a</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#logoutLink</value>
+         <key>XPATH</key>
+         <value>//button[@id='gh-shop-a']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,119 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>36920fa2-a2f2-49c5-a7db-abf7ce3006c2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/logout.do</value>
-      <webElementGuid>951eb202-92fa-4776-9f3c-d52ebb47b0f1</webElementGuid>
+      <value>button</value>
+      <webElementGuid>811d3595-df6d-4ded-aa12-cd4f40114f6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>logoutLink</value>
-      <webElementGuid>88e47bc3-a5e2-4624-9dea-4052a6ea99d8</webElementGuid>
+      <value>gh-shop-a</value>
+      <webElementGuid>87f6c6dd-6514-49ab-a35f-23131f36a4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dad01506-a307-44e3-9773-79cf112dcaca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>logout</value>
-      <webElementGuid>c310d1a7-b18a-4cb6-8897-3169c098d780</webElementGuid>
+      <value>gh-control</value>
+      <webElementGuid>0b5376b2-d180-4fe8-9ae1-69920cb9d492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>gh-sbc-o</value>
+      <webElementGuid>565dbbb0-65aa-4bd5-bff0-2c2e6603b464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
-      <webElementGuid>c8536100-5611-4468-81f7-73238e6d1d96</webElementGuid>
+      <value>Shop by category</value>
+      <webElementGuid>289bf042-16fa-4e2e-92d2-41e5427a3598</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logoutLink&quot;)</value>
-      <webElementGuid>78f90abc-3ba8-4758-9adc-7c690399ba55</webElementGuid>
+      <value>id(&quot;gh-shop-a&quot;)</value>
+      <webElementGuid>d997d5ab-a1cf-44d8-b018-023abc6d1e66</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='logoutLink']</value>
-      <webElementGuid>064b79e7-a7a7-4a4d-9783-ced8ae6909c8</webElementGuid>
+      <value>//button[@id='gh-shop-a']</value>
+      <webElementGuid>96f982ba-215b-4f1d-a8a6-9813ee07117b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='topnav']/tbody/tr/td[7]/table/tbody/tr/td/div/table/tbody/tr/td[3]/a</value>
-      <webElementGuid>9902e37b-32d3-4add-81e4-bf58ffb23eb4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>abb5219c-7b87-4f37-996d-25e88b23ff29</webElementGuid>
+      <value>//div[@id='gh-shop']/button</value>
+      <webElementGuid>92bb92f0-5897-47b5-8f20-f683bf85547e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALENDARS'])[1]/preceding::a[1]</value>
-      <webElementGuid>65cb93a7-5652-4966-8d38-31b4305ac31c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::button[1]</value>
+      <webElementGuid>399e2675-d3c2-4620-aedb-bbd9dd3e4d1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Work Schedule'])[1]/preceding::a[1]</value>
-      <webElementGuid>9426fd28-5464-4b07-8db4-a310d136c1b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by category'])[2]/preceding::button[1]</value>
+      <webElementGuid>59e75a84-e04f-43b1-8fdf-ce2361d90855</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>0cce67e5-e11f-476e-aab0-259fa46d8969</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collectibles &amp; art'])[1]/preceding::button[1]</value>
+      <webElementGuid>626a7f29-991b-42db-83ea-63179f217ee1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/logout.do')]</value>
-      <webElementGuid>e07ef5b7-b350-44cf-a690-6f8da06d6632</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Shop by category']/parent::*</value>
+      <webElementGuid>74015ba6-0b3e-4fe0-a342-94bbecb8c0fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/div/table/tbody/tr/td[3]/a</value>
-      <webElementGuid>ad5aa8d1-70c3-49d6-a6bd-3602e07b1f7e</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>33a5c74c-b535-4abb-9ef0-5e125ae7c82b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/logout.do' and @id = 'logoutLink' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>40130b1c-b389-45f1-a741-17df51f00188</webElementGuid>
+      <value>//button[@id = 'gh-shop-a' and (text() = 'Shop by category' or . = 'Shop by category')]</value>
+      <webElementGuid>577f7074-c4d5-4fad-87c6-066d4438028a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

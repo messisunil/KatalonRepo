@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Screen Size</name>
+   <tag></tag>
+   <elementGuidId>a68a4aec-baf8-4497-bd38-6fc41b5e3dd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='c3-mainPanel-Screen%20Size']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>737d3090-e6fc-4ad2-a1fb-0cc43e8f3573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-overlay-aspect__label</value>
+      <webElementGuid>6cd4650e-d105-4d4d-867f-3694e245494e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Screen Size</value>
+      <webElementGuid>e9f5ab05-bee3-48ea-bec6-0b46075b7485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c3-mainPanel-Screen%20Size&quot;)/span[@class=&quot;x-overlay-aspect__label&quot;]</value>
+      <webElementGuid>45c2fee7-c2b5-4c9b-95b9-9b9ad03387c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c3-mainPanel-Screen%20Size']/span</value>
+      <webElementGuid>e60f3cc9-88bf-4944-bb92-bab0f5bf1eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Screen Size']/parent::*</value>
+      <webElementGuid>f82b5fca-c59f-4ff7-aae5-89f00d7d2709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/span</value>
+      <webElementGuid>c84be563-d2aa-4394-83cb-059399c5a370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Screen Size' or . = 'Screen Size')]</value>
+      <webElementGuid>edf633c6-d62d-4624-8926-fea60bc6f724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

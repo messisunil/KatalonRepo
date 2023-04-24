@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Logout</name>
+   <name>button_Click for JS Confirm</name>
    <tag></tag>
-   <elementGuidId>a8f96168-74c1-46dd-99d7-083d26f86e4a</elementGuidId>
+   <elementGuidId>5b546ee9-4820-48fd-b47a-ccaf2950b7ed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(@href, '/logout.do')]</value>
+         <value>//button[@onclick='jsConfirm()']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#logoutLink</value>
+         <value>li:nth-of-type(2) > button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,119 +21,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>2166e762-86e5-44df-8f9a-50703836c8f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/logout.do</value>
-      <webElementGuid>60c3cb4b-e0a9-45b6-a7ba-a7dfe3970f1a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>logoutLink</value>
-      <webElementGuid>357a0ceb-30c6-4e3a-8c6d-f9bf1cc340fb</webElementGuid>
+      <value>button</value>
+      <webElementGuid>65340b50-2ea1-4f4c-91de-490ebfdd178a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>logout</value>
-      <webElementGuid>645f4173-d101-4b37-9b50-7e82804b536e</webElementGuid>
+      <value>jsConfirm()</value>
+      <webElementGuid>fc750291-ae60-42de-965a-cf87b80feb39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Logout</value>
-      <webElementGuid>74bb99af-ca66-4ce7-98be-49d543724e9a</webElementGuid>
+      <value>Click for JS Confirm</value>
+      <webElementGuid>fdcd6385-2fb4-4ad5-b4fb-377e8b279276</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logoutLink&quot;)</value>
-      <webElementGuid>24d43519-c94e-4618-b7b0-6583cc19501a</webElementGuid>
+      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/ul[1]/li[2]/button[1]</value>
+      <webElementGuid>2dbc83ad-d209-4184-b630-7dcd89ca13a9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='logoutLink']</value>
-      <webElementGuid>9503e79d-bda7-42c7-aa83-ee5d8fb40d47</webElementGuid>
+      <value>//button[@onclick='jsConfirm()']</value>
+      <webElementGuid>12d0a782-40ab-494e-82f0-10f817311f7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='topnav']/tbody/tr/td[7]/table/tbody/tr/td/div/table/tbody/tr/td[3]/a</value>
-      <webElementGuid>e0c4cbbe-83cb-495c-9454-f2178af0c85c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>4100fc7b-f39e-4b6a-ac27-b54f2125d372</webElementGuid>
+      <value>//div[@id='content']/div/ul/li[2]/button</value>
+      <webElementGuid>f7d042f7-9a50-4fbc-90e0-b4213666c813</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALENDARS'])[1]/preceding::a[1]</value>
-      <webElementGuid>c79f87a4-cf70-4f18-8518-8fee35fa330d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Alert'])[1]/following::button[1]</value>
+      <webElementGuid>2ea54fed-2534-4733-89b8-542125cb0108</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Work Schedule'])[1]/preceding::a[1]</value>
-      <webElementGuid>1a0fcd0b-a477-4cbe-a3e2-6159849a95c4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Alerts'])[1]/following::button[2]</value>
+      <webElementGuid>dd1ba070-e96d-460d-8fce-871aaba91397</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>396cff61-76e0-4f7e-bc13-e1678eda0a79</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click for JS Prompt'])[1]/preceding::button[1]</value>
+      <webElementGuid>bcea2399-fe4f-417b-8ad6-0f67ce622dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/logout.do')]</value>
-      <webElementGuid>a60e3e4b-7e09-4734-bbb4-30de0911ddb3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result:'])[1]/preceding::button[2]</value>
+      <webElementGuid>583b208a-038e-4794-a319-c55879dee15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click for JS Confirm']/parent::*</value>
+      <webElementGuid>6b688f60-41f7-4fa8-beaf-2db61bf1a391</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/div/table/tbody/tr/td[3]/a</value>
-      <webElementGuid>83a9535c-09de-4500-abd4-f946c03798b3</webElementGuid>
+      <value>//li[2]/button</value>
+      <webElementGuid>87763c51-d584-4ead-8086-3ac19a67ca4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/logout.do' and @id = 'logoutLink' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>324a6c0f-3332-4bed-aaec-8f127e1e8fbb</webElementGuid>
+      <value>//button[(text() = 'Click for JS Confirm' or . = 'Click for JS Confirm')]</value>
+      <webElementGuid>8fffa362-0652-4f5e-a7e8-526ae1135f22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

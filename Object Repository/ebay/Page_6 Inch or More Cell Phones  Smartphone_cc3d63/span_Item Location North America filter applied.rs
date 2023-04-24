@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Item Location North America filter applied</name>
+   <tag></tag>
+   <elementGuidId>eb73d12b-f555-4f98-9581-b82405fb4021</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-27_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26b3c7fd-7e52-4ae2-bafc-90458da01a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__item-label</value>
+      <webElementGuid>b94c5aaf-3cbf-4a76-9f7b-be6b18c0e198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Item Location: North America filter applied</value>
+      <webElementGuid>52d664c7-0cd6-4d9f-babc-cc0cdc704ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-27_1-9-0-1[0]-0-0-6-5-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;]</value>
+      <webElementGuid>60d4d743-2e6b-4849-96a5-412f388a2edd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-27_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li[3]/a/span</value>
+      <webElementGuid>1334395d-104b-42ad-b869-0c559374e391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter applied'])[2]/following::span[2]</value>
+      <webElementGuid>be6b4d09-7683-433c-b15f-40d49341776c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Item Location: North America']/parent::*</value>
+      <webElementGuid>ebe5976f-8c17-4576-8176-e9c3e31c9dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a/span</value>
+      <webElementGuid>899d5729-b753-478a-9536-80f52030a34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Item Location: North America filter applied' or . = 'Item Location: North America filter applied')]</value>
+      <webElementGuid>89530805-0441-4507-be9b-4eacb6ef12ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

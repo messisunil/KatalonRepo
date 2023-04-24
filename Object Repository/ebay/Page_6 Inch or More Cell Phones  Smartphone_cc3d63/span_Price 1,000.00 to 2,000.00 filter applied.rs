@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Price 1,000.00 to 2,000.00 filter applied</name>
+   <tag></tag>
+   <elementGuidId>27b3c742-f8d2-44a7-8011-d71081552a21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-27_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>10b3e77a-ebca-4ca6-8118-eccc45b0aed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brm__item-label</value>
+      <webElementGuid>ac62cd30-a98d-4c73-9a19-80060f5a5711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: $1,000.00 to $2,000.00 filter applied</value>
+      <webElementGuid>a421fa60-b5c1-44e9-89b2-4a29cd73249c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-27_1-9-0-1[0]-0-0-6-5-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]/span[@class=&quot;brm__item-label&quot;]</value>
+      <webElementGuid>b05ebb83-ccee-4d40-b281-f9cd87d98a22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-27_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li[2]/a/span</value>
+      <webElementGuid>40577327-e5de-47aa-ad4c-0130556ae7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter applied'])[1]/following::span[2]</value>
+      <webElementGuid>436a9db6-86e0-40be-a7e0-43c3fa179341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Price: $1,000.00 to $2,000.00']/parent::*</value>
+      <webElementGuid>108f05a7-6797-48e8-9698-2a5fefabda40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/a/span</value>
+      <webElementGuid>33cf0f36-6269-449f-8781-6af7dd0f6f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Price: $1,000.00 to $2,000.00 filter applied' or . = 'Price: $1,000.00 to $2,000.00 filter applied')]</value>
+      <webElementGuid>2f35f914-1ce5-47b1-b930-a29a1f237263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
