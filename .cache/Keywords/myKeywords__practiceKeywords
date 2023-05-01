@@ -1,19 +1,14 @@
 {
-  "keywordFileContentHash": "F5C327EF6AFCD10157E05B089B3DF7CF",
+  "keywordFileContentHash": "55A11B43AFF7BA078CA2F7B8330863F7",
   "keywordClasses": [
     {
-      "name": "myKeywords.Mykeywords",
+      "name": "myKeywords.practiceKeywords",
       "keywordMethods": [
-        {
-          "name": "hello",
-          "parameters": [],
-          "javadoc": ""
-        },
         {
           "name": "printYourName",
           "parameters": [
             {
-              "name": "user",
+              "name": "name",
               "initialExpression": "",
               "type": {
                 "fullClassName": "java.lang.String",

@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_US Only_location</name>
+   <name>input_Swag Labs_password</name>
    <tag></tag>
-   <elementGuidId>17867058-63ee-48d0-a308-7e140a34dfbf</elementGuidId>
+   <elementGuidId>ee19468b-238d-4fc3-b42c-3abb1a4f4582</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@name='location'])[3]</value>
+         <value>//input[@id='password']</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>#password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,110 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>84164fcb-85ca-43e0-91b5-022ef66fb270</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>83d5f4e5-3e23-4cb3-b7a2-5a8c13fcab4d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>radio</value>
-      <webElementGuid>86a063b5-516e-40ef-aa68-b44855732f10</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>North America</value>
-      <webElementGuid>9b90ff1f-387d-48f4-9109-966df3d822d4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>North America</value>
-      <webElementGuid>e48656d1-978e-4279-b47b-81a83db7acf5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>location</value>
-      <webElementGuid>fc1f63d4-da6b-465b-a209-71ba9c13a725</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>e080c67c-6932-43d8-bf97-1cccffbf0655</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>radio</value>
-      <webElementGuid>9ce50ebc-21c5-499e-b6cb-c179e0aec461</webElementGuid>
+      <webElementGuid>aee31c97-2146-4a59-98ff-5b31b512f18f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>radio__control</value>
-      <webElementGuid>7673e373-3872-4d83-9916-65bc939876d5</webElementGuid>
+      <value>input_error form_input</value>
+      <webElementGuid>2be59234-be88-4b8d-b215-2b01151c936a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>739dbc99-b3c1-4daf-beb0-efdb50c85866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>14080ded-69ca-44c9-a66a-41da3e998182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>dbb63738-28aa-4ec8-aa07-1a616a51beed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>90658481-bba9-4d14-aec1-26256715bb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>f9e615f0-f9b1-42e3-9aef-54dbd03f6093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocorrect</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>d61da751-9b29-48a2-91ab-73fe4b864796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>036e203c-3178-48be-83f2-a72557ef7048</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;c3-subPanel-location_North%20America&quot;)/span[@class=&quot;field&quot;]/span[@class=&quot;radio field__control rbx x-refine__single-select-radio&quot;]/input[@class=&quot;radio__control&quot;]</value>
-      <webElementGuid>88039149-586e-4f7a-8ad4-d6c64af377b5</webElementGuid>
+      <value>id(&quot;password&quot;)</value>
+      <webElementGuid>f8782929-f16b-48c9-b9c8-bf1cf0abdf9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@name='location'])[3]</value>
-      <webElementGuid>04913df8-67e0-4120-bf0b-b5efe33104b4</webElementGuid>
+      <value>//input[@id='password']</value>
+      <webElementGuid>3172c0bf-91b5-498b-8b6d-44ff7a1132c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='c3-subPanel-location_North%20America']/span/span/input</value>
-      <webElementGuid>dde8dbb1-ceca-4d5f-86a6-8f54be4b534b</webElementGuid>
+      <value>//div[@id='login_button_container']/div/form/div[2]/input</value>
+      <webElementGuid>0cf5ab74-2bec-4666-905c-a473a84f9690</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/span/span/input</value>
-      <webElementGuid>48fd2413-e915-49a0-9bcd-f81bc7e4941a</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>f36e18c1-a22a-4dc9-95f3-4e248706ce0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'location' and @type = 'radio']</value>
-      <webElementGuid>6da060ae-d4ec-477b-ab00-b02424c79c4b</webElementGuid>
+      <value>//input[@placeholder = 'Password' and @type = 'password' and @id = 'password' and @name = 'password']</value>
+      <webElementGuid>c9c32d4e-2f7a-4368-9377-b69851beed22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Travellers  Class_sc-eFegNN csJIKZ</name>
+   <tag></tag>
+   <elementGuidId>802fcaec-8998-4737-ab36-50fe26de8b45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div/div/div[5]/div[2]/div[2]/div/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52c2fc62-02a1-4307-bf19-05b06c6cace1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eFegNN csJIKZ</value>
+      <webElementGuid>68e5b151-e7d0-468d-8af9-a4d5813af40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-1gt8xf5-0 cEQQxj&quot;]/div[@class=&quot;sc-1gt8xf5-3 cBVNVf&quot;]/div[@class=&quot;sc-kHOZwM hoZhFj&quot;]/div[@class=&quot;sc-ehCJOs dOUNaZ&quot;]/div[@class=&quot;sc-jUosCB erNlEx&quot;]/div[@class=&quot;sc-lkgTHX abaCA&quot;]/div[@class=&quot;sc-fXeWAj ksETCY&quot;]/div[@class=&quot;sc-fIosxK eskfth&quot;]/div[@class=&quot;sc-eXlEPa gPoucq&quot;]/div[@class=&quot;sc-bQtKYq bfQCXn&quot;]/div[@class=&quot;sc-jWUzzU GwMit&quot;]/span[@class=&quot;sc-eFegNN csJIKZ&quot;]</value>
+      <webElementGuid>946cd08a-ce7f-4c2d-b8ea-a28aad17b2a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div/div/div[5]/div[2]/div[2]/div/div/div/div/span[3]</value>
+      <webElementGuid>cecb122a-0298-4524-b548-1ba3ce72488d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travellers &amp; Class'])[2]/following::span[3]</value>
+      <webElementGuid>5c9fdf39-77f7-4514-b665-8a636aef8069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travellers &amp; Class'])[1]/following::span[5]</value>
+      <webElementGuid>477d9662-7fbd-41a9-b06d-2070851a4812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='economy'])[3]/preceding::span[7]</value>
+      <webElementGuid>7cb9b5e1-d60f-4f20-8637-35c83cf403df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='premium economy'])[1]/preceding::span[7]</value>
+      <webElementGuid>acf84f69-2c2f-40e3-844e-d0a11c9ba57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>30dfc7c1-0fd9-4f9b-b76a-4fe0c18f09f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Logout</name>
    <tag></tag>
-   <elementGuidId>55b29400-385b-44b1-b072-0cda54d033f0</elementGuidId>
+   <elementGuidId>161628d3-8b49-4ea8-a81d-3ddda519ba0b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='logoutLink']</value>
+         <value>//a[@id='logout_sidebar_link']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#logoutLink</value>
+         <value>#logout_sidebar_link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>36920fa2-a2f2-49c5-a7db-abf7ce3006c2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/logout.do</value>
-      <webElementGuid>951eb202-92fa-4776-9f3c-d52ebb47b0f1</webElementGuid>
+      <webElementGuid>dbe37208-833a-47c7-8b76-0e3aa2e0521e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>logoutLink</value>
-      <webElementGuid>88e47bc3-a5e2-4624-9dea-4052a6ea99d8</webElementGuid>
+      <value>logout_sidebar_link</value>
+      <webElementGuid>c0876d30-9344-486a-886c-4cbc4588a43d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>logout</value>
-      <webElementGuid>c310d1a7-b18a-4cb6-8897-3169c098d780</webElementGuid>
+      <value>bm-item menu-item</value>
+      <webElementGuid>01c01917-6f7a-402e-ab60-9c72fc65d713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3c68e1ab-abe4-423f-bc7c-3482bff04fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ab91a874-8293-4757-b9b8-0ffacaa898ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,31 +62,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>c8536100-5611-4468-81f7-73238e6d1d96</webElementGuid>
+      <webElementGuid>28036db7-124e-40ee-a4de-d46b624e78d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;logoutLink&quot;)</value>
-      <webElementGuid>78f90abc-3ba8-4758-9adc-7c690399ba55</webElementGuid>
+      <value>id(&quot;logout_sidebar_link&quot;)</value>
+      <webElementGuid>9ecf9694-8190-4e59-94e3-020fba831607</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='logoutLink']</value>
-      <webElementGuid>064b79e7-a7a7-4a4d-9783-ced8ae6909c8</webElementGuid>
+      <value>//a[@id='logout_sidebar_link']</value>
+      <webElementGuid>74e568a1-89b6-457a-98ba-e44ac2d6d3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='topnav']/tbody/tr/td[7]/table/tbody/tr/td/div/table/tbody/tr/td[3]/a</value>
-      <webElementGuid>9902e37b-32d3-4add-81e4-bf58ffb23eb4</webElementGuid>
+      <value>//div[@id='menu_button_container']/div/div[2]/div/nav/a[3]</value>
+      <webElementGuid>bb99dd24-5148-4cc5-a7c6-c5560b30611e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,23 +94,39 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>abb5219c-7b87-4f37-996d-25e88b23ff29</webElementGuid>
+      <webElementGuid>c0f65ef6-0f84-4bf8-bb7b-79936923f09d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CALENDARS'])[1]/preceding::a[1]</value>
-      <webElementGuid>65cb93a7-5652-4966-8d38-31b4305ac31c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::a[1]</value>
+      <webElementGuid>dd1fae91-a666-45e9-ad91-b401ba2806d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Work Schedule'])[1]/preceding::a[1]</value>
-      <webElementGuid>9426fd28-5464-4b07-8db4-a310d136c1b9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[3]</value>
+      <webElementGuid>7ccf268b-523e-420a-a915-e311fc08fdcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>db871a6a-3c5c-4001-bee0-ac1f2ab4edb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/preceding::a[2]</value>
+      <webElementGuid>2d8f5a63-8455-4d7c-9eb3-ffb827b2c873</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,30 +134,30 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>0cce67e5-e11f-476e-aab0-259fa46d8969</webElementGuid>
+      <webElementGuid>75edc8ef-5e9e-4868-bdeb-b2bb407db211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/logout.do')]</value>
-      <webElementGuid>e07ef5b7-b350-44cf-a690-6f8da06d6632</webElementGuid>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>98fc0a0b-e066-4444-af5b-192bbb8993ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td/div/table/tbody/tr/td[3]/a</value>
-      <webElementGuid>ad5aa8d1-70c3-49d6-a6bd-3602e07b1f7e</webElementGuid>
+      <value>//a[3]</value>
+      <webElementGuid>da922657-ae88-4f10-bffe-0d7b50ec8eee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/logout.do' and @id = 'logoutLink' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>40130b1c-b389-45f1-a741-17df51f00188</webElementGuid>
+      <value>//a[@id = 'logout_sidebar_link' and @href = '#' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>a2ee82bf-81e3-4402-9150-034957970ba8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

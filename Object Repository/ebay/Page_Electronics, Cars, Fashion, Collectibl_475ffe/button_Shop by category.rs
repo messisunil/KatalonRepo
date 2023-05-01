@@ -6,12 +6,12 @@
    <elementGuidId>c5fc8190-fa16-447d-a694-f03857b9c5e6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#gh-shop-a</value>
+         <key>XPATH</key>
+         <value>//button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='gh-shop-a']</value>
+         <key>CSS</key>
+         <value>#gh-shop-a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

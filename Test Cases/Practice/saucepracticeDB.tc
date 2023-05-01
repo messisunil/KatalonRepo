@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ActiTime</name>
+   <name>saucepracticeDB</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c47d8bde-2aff-4e61-9307-d01115e042e1</testCaseGuid>
+   <testCaseGuid>e60d1e0c-ab87-448c-bb6a-2eb53d5d809b</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>cfc68286-828b-4aef-8eb2-14aba3db83a2</id>
+      <id>4b0558f9-cd0f-4cf7-917c-f6c5249784bc</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/database</testDataId>
+      <testDataId>Data Files/practice/ppdbdata</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>cfc68286-828b-4aef-8eb2-14aba3db83a2</testDataLinkId>
+      <testDataLinkId>4b0558f9-cd0f-4cf7-917c-f6c5249784bc</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>username</value>
-      <variableId>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</variableId>
+      <variableId>e3f95ccd-e294-40c5-bcb2-4f2fe81b8cfa</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>cfc68286-828b-4aef-8eb2-14aba3db83a2</testDataLinkId>
+      <testDataLinkId>4b0558f9-cd0f-4cf7-917c-f6c5249784bc</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>password</value>
-      <variableId>177d91da-d319-443d-b5d7-a330d69e24b5</variableId>
+      <variableId>43de505f-bde5-4a29-a5ad-6e4932d12ae8</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</id>
+      <id>e3f95ccd-e294-40c5-bcb2-4f2fe81b8cfa</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>177d91da-d319-443d-b5d7-a330d69e24b5</id>
+      <id>43de505f-bde5-4a29-a5ad-6e4932d12ae8</id>
       <masked>false</masked>
       <name>password</name>
    </variable>

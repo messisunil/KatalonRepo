@@ -19,15 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demo.actitime.com/login.do')
+WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.setText(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Login/input_trainee_username'), username)
+WebUI.setText(findTestObject('Object Repository/ddtpp/Page_Swag Labs/input_Swag Labs_user-name'), username)
 
-WebUI.setText(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Login/input_trainee_pwd'), password)
+WebUI.setText(findTestObject('Object Repository/ddtpp/Page_Swag Labs/input_Swag Labs_password'), password)
 
-WebUI.click(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Login/div_Login'))
+WebUI.click(findTestObject('Object Repository/ddtpp/Page_Swag Labs/input_Swag Labs_login-button'))
 
-WebUI.click(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Enter Time-Track/a_Logout'))
+WebUI.click(findTestObject('Object Repository/ddtpp/Page_Swag Labs/button_Open Menu'))
+
+WebUI.click(findTestObject('Object Repository/ddtpp/Page_Swag Labs/a_Logout'))
 
 WebUI.closeBrowser()
 

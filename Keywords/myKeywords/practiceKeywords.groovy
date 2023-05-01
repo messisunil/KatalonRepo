@@ -20,14 +20,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class Mykeywords {
+public class practiceKeywords {
 	@Keyword
-	def hello() {
-		println " hello welcome to katalon"
-	}
-
-	@Keyword
-	def printYourName(String user) {
-		println " hello "+user
+	def printYourName(String name)
+	{
+		println "your name is "+name
 	}
 }

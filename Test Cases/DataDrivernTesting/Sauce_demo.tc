@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ActiTime</name>
+   <name>Sauce_demo</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c47d8bde-2aff-4e61-9307-d01115e042e1</testCaseGuid>
+   <testCaseGuid>a2dbd249-3c18-44b8-a255-c353effc6c83</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>cfc68286-828b-4aef-8eb2-14aba3db83a2</id>
+      <id>88a85370-e052-468f-adca-7c5fedf66179</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/database</testDataId>
+      <testDataId>Data Files/Sauce_data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>cfc68286-828b-4aef-8eb2-14aba3db83a2</testDataLinkId>
+      <testDataLinkId>88a85370-e052-468f-adca-7c5fedf66179</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>username</value>
-      <variableId>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</variableId>
+      <variableId>f230ddb8-0f97-4cba-a525-0b2548e5dedd</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>cfc68286-828b-4aef-8eb2-14aba3db83a2</testDataLinkId>
+      <testDataLinkId>88a85370-e052-468f-adca-7c5fedf66179</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>password</value>
-      <variableId>177d91da-d319-443d-b5d7-a330d69e24b5</variableId>
+      <variableId>a1202713-7231-4f8c-8fe4-cfcea8d9034e</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</id>
+      <id>f230ddb8-0f97-4cba-a525-0b2548e5dedd</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>177d91da-d319-443d-b5d7-a330d69e24b5</id>
+      <id>a1202713-7231-4f8c-8fe4-cfcea8d9034e</id>
       <masked>false</masked>
       <name>password</name>
    </variable>

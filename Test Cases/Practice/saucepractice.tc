@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ActiTime</name>
+   <name>saucepractice</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c47d8bde-2aff-4e61-9307-d01115e042e1</testCaseGuid>
+   <testCaseGuid>92d7e5d5-b4d9-458b-9f89-4da71701ed56</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>cfc68286-828b-4aef-8eb2-14aba3db83a2</id>
+      <id>92cc7c07-4f67-47a1-aedc-d29fdd2f7f0f</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/database</testDataId>
+      <testDataId>Data Files/practice/ppdata</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>cfc68286-828b-4aef-8eb2-14aba3db83a2</testDataLinkId>
+      <testDataLinkId>92cc7c07-4f67-47a1-aedc-d29fdd2f7f0f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>username</value>
-      <variableId>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</variableId>
+      <variableId>cbcf79c3-e5bd-48b3-8d53-578e59568890</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>cfc68286-828b-4aef-8eb2-14aba3db83a2</testDataLinkId>
+      <testDataLinkId>92cc7c07-4f67-47a1-aedc-d29fdd2f7f0f</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>password</value>
-      <variableId>177d91da-d319-443d-b5d7-a330d69e24b5</variableId>
+      <variableId>3c1fd51b-fadb-4937-ac14-edbe02705ad8</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>f1c2d8c2-f18d-42d6-b832-1f6d2fcafcd3</id>
+      <id>cbcf79c3-e5bd-48b3-8d53-578e59568890</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>177d91da-d319-443d-b5d7-a330d69e24b5</id>
+      <id>3c1fd51b-fadb-4937-ac14-edbe02705ad8</id>
       <masked>false</masked>
       <name>password</name>
    </variable>

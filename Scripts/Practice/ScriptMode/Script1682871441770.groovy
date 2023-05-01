@@ -16,18 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
 WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://demo.actitime.com/login.do')
-
-WebUI.setText(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Login/input_trainee_username'), username)
-
-WebUI.setText(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Login/input_trainee_pwd'), password)
-
-WebUI.click(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Login/div_Login'))
-
-WebUI.click(findTestObject('Object Repository/datadriventesting/Page_actiTIME - Enter Time-Track/a_Logout'))
-
+WebUI.navigateToUrl("https://www.ebay.com/")
+WebUI.setText(findTestObject('Object Repository/ebayscript/Page_Electronics, Cars, Fashion, Collectibles  More  eBay/input_Enter your search keyword__nkw'),"mobiles")
+WebUI.click(findTestObject('Object Repository/ebayscript/Page_Electronics, Cars, Fashion, Collectibles  More  eBay/input_Enter your search keyword_gh-btn'))
 WebUI.closeBrowser()
-

@@ -23,23 +23,39 @@ import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
 
 class NewTestListener {
+	/**
+	 * Executes before every test case starts.
+	 * @param testCaseContext related information of the executed test case.
+	 */
 	@BeforeTestCase
-	def beforeTestCase() {
-		println " this is before test case"
+	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
+		println "before test case"
 	}
-	
+
+	/**
+	 * Executes after every test case ends.
+	 * @param testCaseContext related information of the executed test case.
+	 */
 	@AfterTestCase
-	def afterTestCase() {
-		println " this is after test case"
+	def sampleAfterTestCase(TestCaseContext testCaseContext) {
+		println "after test case"
 	}
-	
+
+	/**
+	 * Executes before every test suite starts.
+	 * @param testSuiteContext: related information of the executed test suite.
+	 */
 	@BeforeTestSuite
-	def beforeSuite() {
-		println " this is before suite"
+	def sampleBeforeTestSuite(TestSuiteContext testSuiteContext) {
+		println "before test suite"
 	}
-	
+
+	/**
+	 * Executes after every test suite ends.
+	 * @param testSuiteContext: related information of the executed test suite.
+	 */
 	@AfterTestSuite
-	def AfterSuite() {
-		println " this is after suite"
+	def sampleAfterTestSuite(TestSuiteContext testSuiteContext) {
+		println "after test suite"
 	}
 }

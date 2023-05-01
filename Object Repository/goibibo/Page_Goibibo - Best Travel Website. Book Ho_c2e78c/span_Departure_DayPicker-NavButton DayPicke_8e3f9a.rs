@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Departure_DayPicker-NavButton DayPicke_8e3f9a</name>
+   <tag></tag>
+   <elementGuidId>15431dc0-4d27-4e2e-a707-5a19d1a4e7e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[4]/div/div/div/div[3]/div[2]/div[2]/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.DayPicker-NavButton.DayPicker-NavButton--next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>443abef1-916d-461c-b9bc-8d9a375e88c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>af8f656f-eb0a-4e48-8576-5e4679bbe09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed904855-6ec0-4d54-b841-1b8393b0959c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next Month</value>
+      <webElementGuid>815ead78-e370-4a0c-a75e-4df03639b580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DayPicker-NavButton DayPicker-NavButton--next</value>
+      <webElementGuid>c7a25c30-2334-48b2-9ad2-6eee1d2e05ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-1gt8xf5-0 cEQQxj&quot;]/div[@class=&quot;sc-1gt8xf5-3 cBVNVf&quot;]/div[@class=&quot;sc-kHOZwM hoZhFj&quot;]/div[@class=&quot;sc-ehCJOs dOUNaZ&quot;]/div[@class=&quot;sc-jUosCB gpmBju&quot;]/div[@class=&quot;sc-uojGG frgHMT&quot;]/div[@class=&quot;sc-eGPXGI dDaZMz&quot;]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-NavBar&quot;]/span[@class=&quot;DayPicker-NavButton DayPicker-NavButton--next&quot;]</value>
+      <webElementGuid>f6059ba5-8f30-4737-b216-27373ff52089</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[4]/div/div/div/div[3]/div[2]/div[2]/div/div/div/span[2]</value>
+      <webElementGuid>10df3533-a169-4a8a-8e8e-56ad7e373f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span[2]</value>
+      <webElementGuid>2ac7297c-8517-40d5-a6e8-e7cdb2c24c90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
